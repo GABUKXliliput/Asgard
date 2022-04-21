@@ -1,9 +1,9 @@
 [
 {
             "name":"Asgard",
-            "LeaderName":["Odin jednooký"],
+            "leaderName":"Odin jednooký",
             "adjective":["Asgarďani"],
-            "startbais":["Tundra"],
+            "startBias":["Tundra"],
             
 "preferredVictoryType": "Domination",
 
