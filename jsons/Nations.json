@@ -2,15 +2,15 @@
 {
             "name":"Asgard",
             "LeaderName":"Odin jednooký",
-            "adjective": ["Asgarďani"],
-            "startbais": ["Tundra"],
+            "adjective":["Asgarďani"],
+            "startbais":["Tundra"],
             
 "preferredVictoryType": "Domination",
 
          "startIntroPart1": "Když chceš něco získat musíš nejdřív hodně trpět tak pojďme na to!!"
 
              "declaringWar": "Do Valhaly!!!",
-              "attacked": "Teď poznáš hellheim",
+              "attacked": "Teď poznáš helheim",
 	"defeated": "A tak začíná Ragnarok",
 	"introduction": "Hoduj s námi nebo s námi bojuj, můžeš si vybrat",
          
@@ -24,6 +24,6 @@
                 
 "uniqueName": "Asgard",
 		"uniques":["Earn [100]% of killed [All] unit's [Strength] as [Faith]"]
-                "cities": ["Asgard","Vlahalla","Bifröst","Fólkvangr","Himinbjörg ","Bilskírnir","Vigrid","Vanaheim","Niflheim","Áfheim"]  
+                "cities": ["Asgard","Valhalla","Bifröst","Fólkvangr","Himinbjörg ","Bilskírnir","Vigrid","Vanaheim","Niflheim","Áfheim"]  
               },
 ]
