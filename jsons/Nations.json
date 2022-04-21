@@ -1,7 +1,7 @@
 [
 {
             "name":"Asgard",
-            "LeaderName":"Odin jednooký",
+            "LeaderName":["Odin jednooký"],
             "adjective":["Asgarďani"],
             "startbais":["Tundra"],
             
@@ -22,7 +22,7 @@
 		"outerColor": [0, 0, 205],
 		"innerColor": [218, 165, 32],
                 
-"uniqueName": "Asgard",
+"uniqueName": "Svět bohů",
 		"uniques":["Earn [100]% of killed [All] unit's [Strength] as [Faith]"]
                 "cities": ["Asgard","Valhalla","Bifröst","Fólkvangr","Himinbjörg ","Bilskírnir","Vigrid","Vanaheim","Niflheim","Áfheim"]  
               },
