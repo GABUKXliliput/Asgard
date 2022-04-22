@@ -1,0 +1,12 @@
+	[
+{
+		"name": "Yggdrasil",
+                 "uniqueTo":"Asgard",
+		"isNationalWonder": true,
+		"faith": 5,
+		"culture": 4,
+                "food":2,
+		"uniques": ["Can be purchased for [400] [Faith] [in all cities]","Unbuildable","Provides 1 extra copy of each improved luxury resource near this City"]
+              "requiredTech": "Agriculture"
+},
+]
