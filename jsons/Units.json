@@ -7,7 +7,7 @@
 		"movement": 3,
 		"strength":40,
                 "range":3,
-               "rangedStrenght":70,
+               "rangedStrength":70,
 		"uniques": ["[-70]% Strength <vs cities>","[+2] Sight","Can be purchased for [4000] [Faith] [in all cities]","Unbuildable"]
 		"attackSound": "Arow"
 	},
