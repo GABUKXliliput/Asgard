@@ -2,11 +2,26 @@
 {
 		"name": "Yggdrasil",
                  "uniqueTo":"Asgard",
-		"isNationalWonder": true,
 		"faith": 5,
 		"culture": 4,
                 "food":2,
-		"uniques": ["Can be purchased for [400] [Faith] [in all cities]","Unbuildable","Provides 1 extra copy of each improved luxury resource near this City"]
+		"uniques": ["Can be purchased for [400] [Faith] [in all cities]","Unbuildable","Provides 1 extra copy of each improved luxury resource near this City", "Limited to [1] per Civilization"]
+              "requiredTech": "Agriculture"
+},{
+		"name": "Hlidskjalf",
+                 "uniqueTo":"Asgard",
+		"faith": 10,
+		"culture": 1,
+                "food":2,
+		"uniques": ["Can be purchased for [4000] [Faith] [in all cities]","Unbuildable","Remove extra unhappiness from annexed cities","Free [Odin] appears","Requires a [Yggdrasil]", "Limited to [1] per Civilization"]
+              "requiredTech": "Agriculture"
+},{
+		"name": "Sifin oltar",
+                 "uniqueTo":"Asgard",
+		"faith": 2,
+		"culture": 1,
+                "food":5,
+		"uniques": ["Can be purchased for [300] [Faith] [in all cities]","Unbuildable","Free [Sif] appears","Requires a [Yggdrasil]","Requires at least [5] population","Limited to [1] per Civilization"]
               "requiredTech": "Agriculture"
 },
 ]
