@@ -16,7 +16,7 @@
 		"culture": 1,
                 "food":2,
 		"uniques": ["Can be purchased for [4000] [Faith] [in all cities]","Unbuildable","Remove extra unhappiness from annexed cities","Free [Odin] appears","Requires a [Yggdrasil]", "Limited to [1] per Civilization"]
-              "requiredTech": "Teologi"
+              "requiredTech": "Teology"
 },{
 		"name": "Oltar blesku a urody",
                  "uniqueTo":"Asgard",
