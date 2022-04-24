@@ -1,0 +1,76 @@
+
+game.png
+size: 2048, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Hlidskjalf
+  rotate: false
+  xy: 244, 12
+  size: 200, 192
+  orig: 200, 192
+  offset: 0, 0
+  index: -1
+BuildingIcons/Oltar blesku a urody
+  rotate: false
+  xy: 868, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Yggdrasil
+  rotate: false
+  xy: 1492, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Asgard
+  rotate: false
+  xy: 1857, 104
+  size: 116, 100
+  orig: 116, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jarl
+  rotate: false
+  xy: 4, 4
+  size: 232, 200
+  orig: 232, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Loki
+  rotate: false
+  xy: 452, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Odin
+  rotate: false
+  xy: 660, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Sif
+  rotate: false
+  xy: 1700, 4
+  size: 149, 200
+  orig: 149, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Thor
+  rotate: false
+  xy: 1076, 63
+  size: 200, 141
+  orig: 200, 141
+  offset: 0, 0
+  index: -1
+UnitIcons/Tyr
+  rotate: false
+  xy: 1284, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
