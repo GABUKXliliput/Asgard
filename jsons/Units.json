@@ -4,11 +4,34 @@
 		"name": "Odin",
 		"unitType": "Archery",
 		"uniqueTo": "Asgard",
-		"movement": 3,
+		"movement": 5,
 		"strength":40,
-                "range":3,
-               "rangedStrength":70,
-		"uniques": ["[-70]% Strength <vs cities>","[+2] Sight","Can be purchased for [4000] [Faith] [in all cities]","Unbuildable"]
+                "range":4,
+               "rangedStrength":75,
+		"uniques": ["[-70]% Strength <vs cities>","[+2] Sight","Unbuildable","Can see over obstacles","Ranged attacks may be performed over obstacles","Can enter ice tiles"]
 		"attackSound": "Arow"
+	},{
+		"name": "Sif",
+		"unitType": "Civilian",
+		"uniqueTo": "Asgard",
+		"uniques": ["Unbuildable","Can see over obstacles","Can enter ice tiles","Can build [Farm] improvements on tiles","[-80]% tile improvement construction time","All adjacent units heal [5] HP when healing"]
+		
+	},{
+		"name": "Tyr",
+		"unitType": "Sword",
+                "movement":4,
+                "strength":60,
+		"uniqueTo": "Asgard",
+		"uniques": ["Unbuildable","Can see over obstacles","Can enter ice tiles","Unit will heal every turn, even if it performs an action","[+20]% Strength <when defending> <when above [50] HP>","[+30]% Strength <when attacking> <when below [35] HP>","Can be purchased for [800] [Faith] [in all cities]","Limited to [1] per Civilization"]
+		
+	},{
+		"name": "Jarl",
+		"unitType": "Military",
+               "strength":23,
+		"uniqueTo": "Asgard",
+		"replaces": "Great General",
+		"uniques": ["Can start an [7]-turn golden age","Bonus for units in 2 tile radius 15",
+			"All adjacent units heal [+20] HP when healing", "[+20] HP when healing", "Can construct [Citadel]", "Great Person - [War]", "Unbuildable", "Uncapturable","All tiles cost 1 movement","Can be purchased for [500] [Faith] [in all cities]"],
+		"movement": 6
 	},
 ]
