@@ -4,7 +4,7 @@
 		"name": "Odin",
 		"unitType": "Archery",
 		"uniqueTo": "Asgard",
-		"movement": 5,
+		"movement": 3,
 		"strength":40,
                 "range":4,
                "rangedStrength":75,
@@ -19,7 +19,7 @@
 	},{
 		"name": "Tyr",
 		"unitType": "Sword",
-                "movement":4,
+                "movement":3,
                 "strength":60,
 		"uniqueTo": "Asgard",
 		"uniques": ["Unbuildable","Can see over obstacles","Can enter ice tiles","Unit will heal every turn, even if it performs an action","[+20]% Strength <when defending> <when above [50] HP>","[+30]% Strength <when attacking> <when below [35] HP>","Can be purchased for [800] [Faith] [in all cities]","Limited to [1] per Civilization"]
@@ -31,6 +31,6 @@
 		"replaces": "Great General",
 		"uniques": ["Can start an [7]-turn golden age","Bonus for units in 2 tile radius 15%",
 			"All adjacent units heal [+20] HP when healing", "[+20] HP when healing", "Can construct [Citadel]", "Great Person - [War]", "Unbuildable", "Uncapturable","All tiles cost 1 movement","Can be purchased for [500] [Faith] [in all cities]"],
-		"movement":4,
+		"movement":2,
 	},
 ]
