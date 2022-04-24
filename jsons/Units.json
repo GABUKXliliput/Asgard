@@ -26,8 +26,7 @@
 		
 	},{
 		"name": "Jarl",
-		"unitType": "Military",
-               "strength":23,
+		"unitType": "Civilian"
 		"uniqueTo": "Asgard",
 		"replaces": "Great General",
 		"uniques": ["Can start an [7]-turn golden age","Bonus for units in 2 tile radius 15%",
