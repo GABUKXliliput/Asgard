@@ -4,7 +4,7 @@
 		"name": "Odin",
 		"unitType": "Archery",
 		"uniqueTo": "Asgard",
-		"movement": 3,
+		"movement": 4,
 		"strength":40,
                 "range":4,
                "rangedStrength":75,
@@ -26,11 +26,27 @@
 		
 	},{
 		"name": "Jarl",
-		"unitType": "Civilian"
+		"unitType": "Civilian",
 		"uniqueTo": "Asgard",
 		"replaces": "Great General",
 		"uniques": ["Can start an [7]-turn golden age","Bonus for units in 2 tile radius 15%",
 			"All adjacent units heal [+20] HP when healing", "[+20] HP when healing", "Can construct [Citadel]", "Great Person - [War]", "Unbuildable", "Uncapturable","All tiles cost 1 movement","Can be purchased for [500] [Faith] [in all cities]"],
 		"movement":2,
+	},{
+		"name": "Thor",
+		"unitType": "Sword",
+                "movement":3,
+                "strength":80,
+		"uniqueTo": "Asgard",
+		"uniques": ["Unbuildable","Can enter ice tiles","Can be purchased for [2000] [Faith] [in all cities]","Limited to [1] per Civilization","Blast radius [2]"]
+		
+	},{
+		"name": "Loki",
+		"unitType": "Sword",
+                "movement":4,
+                "strength":35,
+		"uniqueTo": "Asgard",
+		"uniques": ["Unbuildable","Can enter ice tiles","Can be purchased for [1500] [Faith] [in all cities]","Limited to [1] per Civilization","Invisible to non-adjacent units","May enter foreign tiles without open borders"]
+		
 	},
 ]
